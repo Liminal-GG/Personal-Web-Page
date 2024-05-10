@@ -1,0 +1,37 @@
+body {
+  background-color: #ffb3b3;
+}
+.header {
+  color: #fd6983;
+  text-align: center;
+  font-size: 30px;
+  background: #fdcbff;
+  outline: 6px dotted #fd6983;
+}
+.mac{
+  float: left
+}
+.cake{
+float: right
+}
+p{
+text-align: center;
+color:#fd6983;
+font-size:30px;
+}
+ul{
+text-align: center;
+color:#fd6983;
+font-size:30px;
+list-style-position:inside
+}
+.left{
+text-align: left;
+color: #fd6983
+}
+.right{
+text-align: right;
+color: #fd6983
+}
+
+
